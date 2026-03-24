@@ -1,7 +1,5 @@
 ## Python - 100天从新手到大师
 >
-> <img src="res/pay_qr_code.png" style="zoom:32%;">
->
 > 本项目对应的部分视频已经同步到 [Bilibili](https://space.bilibili.com/1177252794)，有兴趣的小伙伴可以点赞、投币、关注，一键三连支持一下！
 
 ### Python应用领域和职业发展分析
